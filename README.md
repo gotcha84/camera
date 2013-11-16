@@ -1,11 +1,10 @@
 CSE 167 - Introduction to Computer Graphics
-Project 2: camera
+Project 2: Camera
 ======
 
 (See full project specifications here: http://ivl.calit2.net/wiki/index.php/Project2Fall13)
 
-Renders a house in 2 different views by modifying camera matrix. Also renders various objects loaded from given .obj files.
-Objects can also be translated, rotated, and scaled using keyboard keys as in cube.
+Renders a house in 2 different views by modifying camera matrix. Also renders various objects loaded from given .obj files. Objects can also be translated, rotated, and scaled using keyboard keys as in cube.
 
 Objects:
 * F1: cube
@@ -18,6 +17,6 @@ Objects:
 * F9: house (view2)
 
 Fullscreen:
-* f: toggle fullscreen
+* f: Toggle fullscreen
 
 ![rotating house in view1](camera.png "rotating house in view1")
